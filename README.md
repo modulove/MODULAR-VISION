@@ -85,6 +85,6 @@ Install the following libraries via Arduino Library Manager:
 
 ## Credits
 
-- **Hardware design**: [SPCTRL Modular](https://spctrl.de) & [WGD Modular](https://wgdmodular.de)
+- **Hardware design**: [SPCTRL Modular](https://github.com/BastianSPCTRL/VISION) & [WGD Modular](https://wgdmodular.de)
 - **Alternative firmware**: [Modulove](https://modulove.io)
 - **Original firmware**: SPCTRL × WGD Modular
