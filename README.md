@@ -4,7 +4,7 @@ Alternative firmware for the **SPCTRL × WGD Modular VISION / FORK** — a 1u (I
 
 This firmware extends the original VISION oscilloscope with additional display modes, a tuner, adjustable parameters, and screensaver.
 
-The module is a collaboration between [SPCTRL Modular](https://spctrl.de) and [WGD Modular](https://wgdmodular.de) from Germany.
+The module is a collaboration between [SPCTRL Modular](https://github.com/BastianSPCTRL/VISION) and [WGD Modular](https://wgdmodular.de) from Germany.
 
 ---
 
