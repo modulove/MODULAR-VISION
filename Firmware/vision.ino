@@ -558,8 +558,8 @@ void drawScopeMenu() {
       break;
   }
 
-  display.setCursor(0, SCREEN_HEIGHT - 8);
-  display.print(F("SCOPE"));
+  //display.setCursor(0, SCREEN_HEIGHT - 8);
+  //display.print(F("SCOPE"));
 }
 
 // ============================================================================
